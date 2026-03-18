@@ -14,7 +14,7 @@ Focused on binary exploitation, low-level systems, and practical security resear
 
 ## Work
 - CTF player & challenge author
-- Writeups → [https://yahyamouelhi.github.io]  
+- Writeups → https://yahyamouelhi.github.io
 
 ---
 
